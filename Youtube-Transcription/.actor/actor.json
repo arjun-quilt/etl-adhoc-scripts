@@ -1,0 +1,10 @@
+{
+	"actorSpecification": 1,
+	"name": "Youtube-Transcription",
+	"title": "Extract the Transcription from youtube videos",
+	"description": "Extract the Transcription with provided URL.",
+	"version": "0.0",
+	"input": "./input_schema.json",
+	"dockerfile": "./Dockerfile"
+}
+

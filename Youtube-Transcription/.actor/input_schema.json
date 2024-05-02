@@ -1,0 +1,15 @@
+{
+    "title": "Youtube-Transcription",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "url": {
+            "title": "URL of the video",
+            "type": "string",
+            "description": "The video URL of Youtube.",
+            "editor": "textfield",
+            "prefill": "https://www.youtube.com/watch?v=EzY1E73EXAU"
+        }
+    },
+    "required": ["url"]
+}
